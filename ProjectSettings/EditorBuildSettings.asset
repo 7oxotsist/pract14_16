@@ -11,7 +11,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Mirror/Examples/Chat/Scenes/Main.unity
     guid: f4e8d4de4484e44bba666f2d1f66c73e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/16.unity
+    guid: 63f362c76954a9b46b1bfdcea5fff0ab
   - enabled: 1
-    path: Assets/15.unity
-    guid: a86274faad06fc54d9a6adbf025bb768
+    path: Assets/Scenes/15.unity
+    guid: 765486a04fabe5140b83e221754b961c
   m_configObjects: {}
